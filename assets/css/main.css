@@ -1479,3 +1479,7 @@ section,
 .tech-logo:hover {
   transform: scale(1.05);
 }
+
+.switch{
+  text-align: center;
+}
